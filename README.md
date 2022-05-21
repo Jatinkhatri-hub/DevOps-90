@@ -1,7 +1,7 @@
 # DevOps-90
 
 - This repository is used to document my journey on getting started in DevOps as an complete beginner to an entry level job ready.
-- I will be starting this journey on the 22th May 2022 and learn all the tools and gain knowledge for the next `90 days` which just so happens to be `May 22th to August 19th`.
+- I will be starting this journey on the 22th May 2022 and learn all the tools and gain knowledge for the next `90 days` which just so happens to be `May 22th to August 19th`.<br>
 -Goal 
     - 90 Days ->  Study everyday => tackle over 13 areas of DevOps.
 
