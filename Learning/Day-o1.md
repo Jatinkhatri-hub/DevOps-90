@@ -40,25 +40,25 @@
 
 ![](https://about.gitlab.com/nuxt-images/topics/devops-lifecycle-1100.png)
 
-    1. **Manage**: DevOps closes the loop and incorporates feedback and learnings from the entire lifecycle into your ongoing iteration.
+    1. Manage: DevOps closes the loop and incorporates feedback and learnings from the entire lifecycle into your ongoing iteration.
 
-    2. _Plan_: DevOps describes the work that needs to be done, prioritize it, and track its completion.
+    2. Plan: DevOps describes the work that needs to be done, prioritize it, and track its completion.
 
-    3. **Create**: DevOps writes code, proposes changes, and discusses these proposals with coworkers.
+    3. Create: DevOps writes code, proposes changes, and discusses these proposals with coworkers.
     
-    4. **Verify**: DevOps automatically tests code to make sure it works correctly.
+    4. Verify: DevOps automatically tests code to make sure it works correctly.
 
-    5. **Package**: DevOps stores the software in a state where it can be reused later.
+    5. Package: DevOps stores the software in a state where it can be reused later.
 
-    6. **Secure**: DevOps checks whether the software contains vulnerabilities through static and dynamic tests, fuzz testing, and dependency scanning.
+    6. Secure: DevOps checks whether the software contains vulnerabilities through static and dynamic tests, fuzz testing, and dependency scanning.
 
-    7. **Release**: DevOps deploys the software to end users.
+    7. Release: DevOps deploys the software to end users.
 
-    8. **Configures**: DevOps manages infrastructure and software platforms.
+    8. Configures: DevOps manages infrastructure and software platforms.
 
-    9. **Monitor**: Devops sees the impact of the software is on inftrastructure and users. It also provides data to help effectively respond to incidents.
+    9. Monitor: Devops sees the impact of the software is on inftrastructure and users. It also provides data to help effectively respond to incidents.
 
-    10. **Protects**: DevOps secure the infrastructure the software is running on by ensuring containers are up to date and locked down.
+    10. Protects: DevOps secure the infrastructure the software is running on by ensuring containers are up to date and locked down.
 
 
 ---
