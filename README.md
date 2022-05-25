@@ -10,7 +10,7 @@
 
 ### Getting Ready
 
-- [ ] ⚙️ 1 > [What is DevOps]
+- [ ] ⚙️ 1 > [What is DevOps](https://github.com/Jatinkhatri-hub/DevOps-90/blob/main/Learning/Day-o1.md#introduction-to-the-devops)
 
 ### Intro to Linux 
 
