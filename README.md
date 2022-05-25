@@ -10,7 +10,7 @@
 
 ### Getting Ready
 
-- [ ] ⚙️ 1 > [What is DevOps? - An Introduction]
+- [ ] ⚙️ 1 > [What is DevOps]
 
 ### Intro to Linux 
 
