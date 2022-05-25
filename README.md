@@ -1,8 +1,8 @@
 # DevOps-90
 
 - This repository is used to document my journey on getting started in DevOps as an complete beginner to an entry level job ready.
-- I will be starting this journey on the 22th May 2022 and learn all the tools and gain knowledge for the next `90 days` which just so happens to be `May 22th to August 19th`.<br>
--Goal 
+- I will be starting this journey on the 22th May 2022 and learn all the tools and gain knowledge for the next `90 days` which just so happens to be `May 25th to August 22nd`. <br>
+- Goal 
     - 90 Days ->  Study everyday => tackle over 13 areas of DevOps.
 
 => Source of roadmap [Saiyam Pathak's Roadmap](https://www.youtube.com/watch?v=7l_n97Mt0ko)
@@ -10,7 +10,7 @@
 
 ### Getting Ready
 
-- [] ⚙️ 1 > [What is DevOps? - An Introduction]
+- [ ] ⚙️ 1 > [What is DevOps? - An Introduction]
 
 ### Intro to Linux 
 
